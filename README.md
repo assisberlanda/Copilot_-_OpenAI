@@ -1,1 +1,1 @@
-# Copilot_-_OpenAI
+# Copilot_OpenAI
